@@ -1,0 +1,30 @@
+.colb{
+    background-color: blue;
+}
+
+.colr{
+    background-color: red;
+}
+
+.colg{
+    background-color: green;
+}
+
+.row-bottom-margin { 
+    margin-bottom:0px; 
+}
+
+
+/*
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+
+    font-size: 45px;
+    
+    }
+    */
+
+    .cIcon{
+
+        font-size: 65px;
+        
+        }
